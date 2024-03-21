@@ -228,23 +228,12 @@ export const pricing = [
       "Per sekali revisi hanya Rp5.000",
     ],
   },
-  {
-    id: "2",
-    title: "Jasa Lainnya",
-    description: "Anda dapat memesan jasa kami untuk perbaikan desain, rebranding, redesain poster, copywriting, dan lainnya",
-    price: "20.000",
-    features: [
-      "any design with full customization",
-      "Personalized on your preferences",
-      "Free revision fees",
-    ],
-  },
 ];
 
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
+    title: "Bebas Konsultasi",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
